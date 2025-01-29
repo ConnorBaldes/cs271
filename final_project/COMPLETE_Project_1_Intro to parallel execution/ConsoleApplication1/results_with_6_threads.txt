@@ -1,0 +1,112 @@
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     308.3886514		         277.867042
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     450.7214861		        321.9064506
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     418.5273883		        275.8778915
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     325.5211919		        285.2627495
+                6		     10000		     7324.296207		        2508.938527
+                6		     50000		     13316.79897		        6037.237528
+                6		    250000		     13316.79897		        7524.979655
+                6		   1250000		      29064.3823		        12603.35622
+                6		   6250000		     192742.7341		         41588.0657
+                6		  31250000		     192742.7341		        45181.72682
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     292.9687258		        262.6762698
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     450.7214861		        297.2649946
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     418.5261138		        299.1207317
+                6		     10000		     9765.728276		        2199.959928
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     450.7214861		        352.0341614
+                6		     10000		     29297.18483		         7653.07753
+                6		     50000		     29297.18483		        9155.091425
+                6		    250000		     122070.7361		        21979.42645
+                6		   1250000		     122070.7361		        22925.23166
+                6		   6250000		     122070.7361		        33550.89478
+                6		  31250000		     122070.7361		        41610.64006
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     325.5211919		        265.8688583
+                6		     10000		     29297.18483		        4163.329325
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     418.5273883		        276.8040868
+                6		     10000		     29297.18483		        6158.130452
+                6		     50000		     146485.9241		        23396.32181
+                6		    250000		     146485.9241		        25700.81281
+                6		   1250000		     1831074.052		         215721.948
+                6		   6250000		     1831074.052		        223794.1993
+                6		  31250000		     1831074.052		        235108.4127
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     418.5273883		        279.4669394
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     390.6258003		         275.844716
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     450.7214861		        252.9860629
+                6		     10000		     14648.28016		        4251.277809
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf
+Number Of Threads		Array Size		Peak Performance		Average Performance		
+                6		      2000		     450.7214861		        282.7972936
+                6		     10000		             inf		                inf
+                6		     50000		             inf		                inf
+                6		    250000		             inf		                inf
+                6		   1250000		             inf		                inf
+                6		   6250000		             inf		                inf
+                6		  31250000		             inf		                inf

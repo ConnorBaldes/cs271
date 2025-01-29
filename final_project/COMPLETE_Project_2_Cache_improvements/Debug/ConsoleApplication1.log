@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c:\users\paris\paris\university\term_7\cs575\projects\project_3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\paris\Paris\University\Term_7\CS575\Projects\Project_3\ConsoleApplication1\Debug\ConsoleApplication1.exe
